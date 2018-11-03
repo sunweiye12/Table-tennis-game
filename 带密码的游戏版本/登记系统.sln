@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "登记系统", "登记系统.csproj", "{330D9335-5A70-9065-7BAE-9C9E83BDB27D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "登记系统.Editor", "登记系统.Editor.csproj", "{C04E0E3C-8526-E41F-F175-84F6ACDA53E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{330D9335-5A70-9065-7BAE-9C9E83BDB27D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{330D9335-5A70-9065-7BAE-9C9E83BDB27D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{330D9335-5A70-9065-7BAE-9C9E83BDB27D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{330D9335-5A70-9065-7BAE-9C9E83BDB27D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C04E0E3C-8526-E41F-F175-84F6ACDA53E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C04E0E3C-8526-E41F-F175-84F6ACDA53E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C04E0E3C-8526-E41F-F175-84F6ACDA53E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C04E0E3C-8526-E41F-F175-84F6ACDA53E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
